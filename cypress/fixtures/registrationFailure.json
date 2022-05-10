@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "data": {
+    "id": null,
+    "provider": "email",
+    "uid": "",
+    "allow_password_change": false,
+    "email": "useremail.com",
+    "name": "foobar",
+    "created_at": null,
+    "updated_at": null,
+    "role": "registered_user"
+  },
+  "errors": {
+    "email": ["is not an email"],
+    "full_messages": ["Email is not an email"]
+  }
+}

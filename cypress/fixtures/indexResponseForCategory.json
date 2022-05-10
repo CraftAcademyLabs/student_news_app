@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "TKTK",
+      "lede": "TKTKT",
+      "authors": [{"id": 1, "name": "Dave Mathews"}],
+      "created_at": "2021-10-05",
+      "updated_at": "2021-10-05",
+      "category": { "id": 3, "name": "Business" }
+    },
+    {
+      "id": 4,
+      "title": "World Goes Broke Again",
+      "lede": "All gone",
+      "authors": [{"id": 1, "name": "Dave Mathews"}],
+      "created_at": "2021-10-05",
+      "updated_at": "2021-10-05",
+      "category": { "id": 3, "name": "Business" }
+    },
+    {
+      "id": 5,
+      "title": "Miraculous Recovery",
+      "lede": "Its back",
+      "authors": [{"id": 1, "name": "Dave Mathews"}],
+      "created_at": "2021-10-05",
+      "updated_at": "2021-10-05",
+      "category": { "id": 3, "name": "Business" }
+    },
+    {
+      "id": 5,
+      "title": "Tech Article",
+      "lede": "This shouldn't be here",
+      "authors": [{"id": 1, "name": "Dave Mathews"}],
+      "created_at": "2021-10-05",
+      "updated_at": "2021-10-05",
+      "category": { "id": 2, "name": "Tech" }
+    }
+  ]
+}

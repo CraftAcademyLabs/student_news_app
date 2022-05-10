@@ -1,0 +1,11 @@
+{
+  "data": {
+    "id": 27,
+    "provider": "email",
+    "uid": "user@email.com",
+    "allow_password_change": false,
+    "email": "user@email.com",
+    "created_at": "2021-10-04T13:33:56.920Z",
+    "updated_at": "2021-10-04T13:33:56.923Z"
+  }
+}
